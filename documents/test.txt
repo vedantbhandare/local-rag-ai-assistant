@@ -1,0 +1,3 @@
+This document explains the basics of Retrieval Augmented Generation (RAG).
+RAG is a technique where an AI retrieves relevant documents before answering a question.
+It helps reduce hallucinations and ensures answers are grounded in data.

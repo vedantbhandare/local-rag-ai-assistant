@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Vector store (can be regenerated)
+vector_store/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
