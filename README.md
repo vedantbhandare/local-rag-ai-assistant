@@ -121,24 +121,3 @@ http://localhost:8501
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates:
-
-* Real-world **RAG architecture**
-* Local-first AI deployment
-* Vector search & embeddings
-* Prompt grounding & hallucination control
-* Production-style debugging of fast-moving AI libraries
-
----
-
-## Future Improvements
-
-* File upload via UI
-* Chat history
-* Source citations
-* Model switcher
-* Multi-document comparison
-
----
